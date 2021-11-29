@@ -19,8 +19,8 @@ String name = request.getParameter("name");
 String from = request.getParameter("emailsender");
 String messageText = request.getParameter("text");
 String host = "localhost";
-String fromEmail = "onetouchbanking2021@gmail.com";
-String password = "@onetouch123";
+String fromEmail = "Your email account where you want to receive feedback";
+String password = "email account password";
 String result;
 
 
