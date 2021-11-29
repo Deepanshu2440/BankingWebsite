@@ -27,8 +27,8 @@ public boolean sendEmail(User user) {
 
 //    String toEmail = user.getEmail();
     String toEmail = user.getEmail();
-    String fromEmail = "onetouchbanking2021@gmail.com";
-    String password = "@onetouch123";
+    String fromEmail = "Your email address from where you want to share OTP";
+    String password = "your email id password";
 
     try {
 
